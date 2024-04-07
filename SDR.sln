@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sdrfc", "Sdrfc\Sdrfc.csproj", "{57F3A0F6-1A82-44B1-8E89-D82A3F876C51}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SdrfcLib", "SdrfcLib\SdrfcLib.csproj", "{9FCD8316-90DB-4036-BF53-35B3A362A902}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{962791A7-50E6-4CEC-A3F8-E7F318548CFD}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57F3A0F6-1A82-44B1-8E89-D82A3F876C51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57F3A0F6-1A82-44B1-8E89-D82A3F876C51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57F3A0F6-1A82-44B1-8E89-D82A3F876C51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57F3A0F6-1A82-44B1-8E89-D82A3F876C51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FCD8316-90DB-4036-BF53-35B3A362A902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FCD8316-90DB-4036-BF53-35B3A362A902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FCD8316-90DB-4036-BF53-35B3A362A902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FCD8316-90DB-4036-BF53-35B3A362A902}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32F0CEFF-7821-4226-B014-34B6F8B991CC}
+	EndGlobalSection
+EndGlobal
