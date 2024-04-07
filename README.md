@@ -15,7 +15,7 @@ sdrfc.exe [-option] [drive:][path][inputfilename] [drive:][path][outputfilename]
 ## Features
 * Convert frequency channels from one format to another. 
 * Auto-detect input and output file formats.
-* Create output file if it doesn't exist. If output file does exist and '-m' option is selected
+* Create output file if it doesn't exist. If output file does exist and `-m` option is selected
 then frequency channels from input file are merged into the output file and saved.
 
 
