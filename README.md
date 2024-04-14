@@ -12,7 +12,8 @@ sdrfc.exe [-option] [drive:][path][inputfilename] [drive:][path][outputfilename]
 * `-c` - Copy channels from input file to output file, overwrite the output file (default).
 * `-m` - Merge channels from input file to output file, save the result into the output file.
 
-**WARNING: Make sure SDR++/SDR# application are not running when updating frequency files. Both apps load frequency files when started, manage frequency channels in the memory and overwrite files when stopped.
+### Warning 
+Make sure SDR++/SDR# application are not running when updating frequency files. Both apps load frequency files when started, manage frequency channels in the memory and overwrite files when stopped.
 
 ## Features
 * Convert frequency channels from one format to another. 
